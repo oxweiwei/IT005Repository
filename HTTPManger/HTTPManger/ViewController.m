@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"%@",[NSRunLoop currentRunLoop]);
+
     NSLog(@"%@",[NSRunLoop currentRunLoop]);
     
     
